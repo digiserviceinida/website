@@ -10,10 +10,11 @@
 
 
 
-	![Company](https://user-images.githubusercontent.com/106660261/171793959-8206ccaa-3a6b-4341-8cdc-829c9be14a56.jpg)
+	![](images.githubusercontent.com/106660261/171793959-8206ccaa-3a6b-4341-8cdc-829c9be14a56.jpg 100*20)
 
+<img src="![Company](https://user-images.githubusercontent.com/106660261/171794886-caf8c3e6-57ad-4c10-a962-38f0ce901369.jpg)"width="50%">
 
-
+<img src="https://raw.githubusercontent.com/digiserviceinida/datatyping.github.io/main/Company.jpg"width="50%">
 
 
 
