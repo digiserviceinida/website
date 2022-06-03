@@ -10,7 +10,8 @@
 
 
 
-	
+	![Company](https://user-images.githubusercontent.com/106660261/171793959-8206ccaa-3a6b-4341-8cdc-829c9be14a56.jpg)
+
 
 
 
@@ -354,6 +355,7 @@ Registration Certificate of Establishment
 <br>
 <br>
 <b>
+![pexels-lex-photography-1109543](https://user-images.githubusercontent.com/106660261/171793047-556dcad8-f9a3-47fd-9a6d-242a548b663a.jpg)
 
 <li>
 <b><span style="color:yellow;">DIGI SERVICES INDIA </span></b>
@@ -612,7 +614,7 @@ LOCATION =  &nbsp;<a href="https://goo.gl/maps/k2CYBYStDMYB4aDCA">https://goo.gl
 <span style="color: red;">ADDRESS</span> = C2/78VASHANT STREET,GHAZIABAD,UTTER PRADESH-201002
 
 
-	TERMS AND CONDITIONS APPLY<br><br>
+	TERMS AND CONDITIONS APPLY
 
 
 
